@@ -1,0 +1,3 @@
+usbd_custom_hid_if.c:155:15:CUSTOM_HID_Init_FS	4	static
+usbd_custom_hid_if.c:166:15:CUSTOM_HID_DeInit_FS	4	static
+usbd_custom_hid_if.c:179:15:CUSTOM_HID_OutEvent_FS	16	static
